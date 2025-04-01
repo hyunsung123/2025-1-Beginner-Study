@@ -21,3 +21,4 @@ squash and merge 하나의 커밋으로 main 브랜치로 병합
 rebase and merge 아예 새로운 커밋으로 변경
     >>commit hash가 변경되기 때문에 무수한 충돌의 위험이 있어 주의해야함
 
+https://github.com/hyunsung123/2025-1-Beginner-Study/pull/2
